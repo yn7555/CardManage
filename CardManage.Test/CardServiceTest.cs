@@ -19,7 +19,7 @@ namespace CardManage.Test
         {
             CardDTO dto = new CardDTO()
             {
-                CardNo = "11111",
+                CardNo = "333",
                 TypeId = 1,
                 OwnnerBankId = 1,
                 OwnnerPersonId = 1,
